@@ -5,3 +5,4 @@ function greet()
 end
 
 greet()
+print("Goodbye!")
